@@ -10,7 +10,7 @@
       <p><b>地址：北京市海淀区颐和园路5号北京大学，45乙楼</b></p>
     </td>
     <td width="25%">
-      <img src="/Accelaretor.jpg" width="100%">
+      <img src="/Me.jpg" width="100%">
     </td>
   </tr>
 </table>
